@@ -4,6 +4,8 @@ import Constants from 'expo-constants';
 import LoginScreen from './components/LoginScreen';
 import SplashScreen from './components/SplashScreen';
 import AlertsSent from './components/AlertsSent';
+import SetAlert from './components/SetAlert';
+import AddDevice from './components/AddDevice';
 
 function App() {
   
