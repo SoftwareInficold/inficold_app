@@ -11,7 +11,7 @@ function App() {
   
   return (
     <View style={styles.container}>
-     <AlertsSent />
+     <SplashScreen />
     </View> 
   )
 }
